@@ -1,0 +1,15 @@
+header .hero h2 {
+	font-weight: 200;
+	font-size: 3em;
+	color: grey;
+}
+header .hero .btn {
+	background-color: rgb(32, 199, 250);
+	border: none;
+}
+
+header .hero p {
+	font-style: italic;
+	color: gray;
+	font-size: 1.2em;
+}
